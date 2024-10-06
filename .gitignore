@@ -1,0 +1,4 @@
+node_modules
+.env
+.encryptJsonKey.json
+SimpleStorage_sol_*
